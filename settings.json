@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
+    "username": "nagii",
     "password": "your_password",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "Sukhdeep6594.aternos.me",
+    "port": 27591,
+    "version": "1.20.51"
   },
 
   "position": {
