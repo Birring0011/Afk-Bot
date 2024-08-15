@@ -1,4 +1,4 @@
-{
+see{
   "bot-account": {
     "username": "bot",
     "password": "your_password",
@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "Sukhdeep6594.aternos.me",
+    "port": 27591,
     "version": "1.19.3"
   },
 
